@@ -2,6 +2,8 @@
 
 - 📖 Estudo análise e desenvolvimento de sistemas
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,devto)](https://skillicons.dev)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariachiro&layout=compact)
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariachiro&show_icons=true&theme=tokyonight)
